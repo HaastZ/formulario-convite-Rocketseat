@@ -7,7 +7,45 @@
 
 .type-event {
     display: flex;
+    gap: 0.50rem;
+    justify-content: space-evenly;
     width: 20rem;
+    border: 1px solid #363B40;
+    border-radius: 0.5rem;
+    height: 3rem;
+    width: 100%;
+    background-color: var(--input-base);
+    
+    & label {
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 0.5rem;
+        padding: 0.625rem;
+        border-radius: 0.5rem;
+        position: relative;
+
+        & img {
+            width: 1rem;
+        }
+
+        &:hover {
+            background-color: var(--input-placeholder);
+        }
+
+        &:has(:checked) {
+            background-color: var(--brand-dark);
+        }
+    }
+
+    & input[type="radio"] {
+        all: unset;
+        inset: 0;
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+    }
 }
 
 .wrapper {
@@ -54,5 +92,16 @@
         border: 1px solid var(--input-stroke);
         border-radius: 0.5rem;
         height: 8.5rem;
+    }
+
+    & input[type="date"] {
+        color: var(--input-placeholder);
+        position: relative;
+
+        &::-webkit-calendar-picker-indicator {
+            position: absolute;
+            width: 100%;
+            opacity: 0;
+        }
     }
 }
