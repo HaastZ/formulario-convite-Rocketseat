@@ -1,0 +1,14 @@
+.customization .custon-wrapper {
+    margin-top: 1.5rem;
+
+    & input[type="color"]::-webkit-color-swatch-wrapper {
+        background-color: var(--shape-button);
+    }
+}
+
+.custon-wrapper .colors-wrapper {
+    margin-top: 1rem;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+}
