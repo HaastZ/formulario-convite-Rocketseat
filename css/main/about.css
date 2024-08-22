@@ -94,6 +94,10 @@
         height: 8.5rem;
     }
 
+    & input[type="text"], & textarea {
+        color: var(--input-placeholder);
+    }
+
     & input[type="date"] {
         color: var(--input-placeholder);
         position: relative;
