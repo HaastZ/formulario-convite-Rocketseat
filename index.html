@@ -22,6 +22,56 @@
     
         <main>
             <h1>Crie seu convite</h1>
+            <form>
+                <div class="about">
+                    <div class="title-about">
+                        <img src="./assets/icons/calendar.svg" alt="icone de calendario">
+                        <legend>Sobre o evento</legend>
+                    </div>
+                    <div class="wrapper">
+                        <div class="input-wrapper">
+                            <label for="name-event">Título</label>
+                            <input type="text" name="name-event" id="name-event" placeholder="Nome do evento">
+                        </div>
+
+                        <div class="input-wrapper">
+                            <label for="start">Início</label>
+                            <input type="date" name="start" id="start">
+                        </div>
+
+                        <div class="input-wrapper">
+                            <label for="end">Fim</label>
+                            <input type="date" name="end" id="end">
+                        </div>
+
+                        <div class="input-wrapper">
+                            <label for="tipo-event">Tipo</label>
+                            <div class="type-event">
+                                <label>
+                                    <input type="radio" name="tipo-event" id="tipo-event" value="presencial">
+                                    <span>Presencial</span>
+                                </label>
+                                <label>
+                                    <input type="radio" name="tipo-event" id="tipo-event" value="online">
+                                    <span>Online</span>
+                                </label>
+                            </div>
+                        </div>
+
+                        <div class="input-wrapper">
+                            <label for="local">Local</label>
+                            <input type="text" name="local" id="local" placeholder="Link ou endereço">
+                        </div>
+
+                        <div class="input-wrapper">
+                            <label for="description">Descrição</label>
+                            <textarea name="description" id="description" placeholder="Escreva sobre os detalhes do evento"></textarea>
+                        </div>
+
+
+                    </div>
+                </div>
+                </form>
         </main>
     </div>
 </body>
