@@ -6,7 +6,6 @@
 }
 
 main {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+    padding: 5rem 8.125rem ;
+    background-color: var(--background-color);
 }
