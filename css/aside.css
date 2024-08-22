@@ -23,6 +23,6 @@ aside {
         font-family: var(--font-family);
         font-style: normal;
         font-weight: 300;
-        color: #F9F9F9;
+        color: var(--text-heading);
     }
 }
