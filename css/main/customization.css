@@ -32,59 +32,5 @@
             opacity: 0;
             cursor: pointer;
         }
-
-        
     }
-
-    
-
-    & .colors.brand-light {
-        background-color: var(--brand-light);
-    }
-
-    & .colors.navy {
-        background-color: var(--navy);
-    }
-
-    & .colors.purple {
-        background-color: var(--purple);
-    }
-
-    & .colors.fuschia {
-        background-color: var(--fuschia);
-    }
-    
-    & .colors.pink {
-        background-color: var(--pink);
-    }
-
-    & .colors.pink {
-        background-color: var(--pink);
-    }
-
-    & .colors.danger {
-        background-color: var(--error);
-    }
-
-    & .colors.orange {
-        background-color: var(--orange);
-    }
-
-    & .colors.yellow {
-        background-color: var(--yellow);
-    }
-
-    & .colors.lime {
-        background-color: var(--lime);
-    }
-
-    & .colors.green {
-        background-color: var(--green);
-    }
-
-    & .colors.cyan {
-        background-color: var(--cyan);
-    }
-
-    
 }
