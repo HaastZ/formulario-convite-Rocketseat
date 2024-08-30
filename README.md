@@ -1,10 +1,10 @@
 ![Festivite](https://github.com/user-attachments/assets/85a6674e-6ad0-4be9-a65c-22abad04e6e3)
 
-Este foi um projeto feito durante a formação Full Stack da Rocketseat, sendo o 3º desafio concluido. O projeto não está totalmente finalizado, falta alguns ajustes
-
+- Este foi um projeto feito durante a formação Full Stack da Rocketseat, sendo o 3º desafio concluido.
+- O projeto não está totalmente finalizado, falta alguns ajustes
 - Projeto hospedado: https://formulario-convite-rocketseat.vercel.app/
 # Objetivo do projeto
-Praticar os ensinamentos estudados durante o módulo de formulários HTML, construindo um site desktop de convite para evento com formulário para geração do convite personalizado.
+Praticar os conhecimentos adquiridos durante o módulo de formulários HTML, construindo um site desktop de convite para evento com formulário para geração do convite personalizado.
 # Tecnologias utilizadas
 - HTML
 - CSS ( CSS Nesting, CSS Flex, CSS Grid )
