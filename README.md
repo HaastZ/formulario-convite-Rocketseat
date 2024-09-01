@@ -5,9 +5,10 @@
 - Projeto hospedado: https://formulario-convite-rocketseat.vercel.app/
 # Objetivo do projeto
 Praticar os conhecimentos adquiridos durante o módulo de formulários HTML, construindo um site desktop de convite para evento com formulário para geração do convite personalizado.
-# Tecnologias utilizadas
+# Tecnologias e Recursos utilizados
 - HTML
 - CSS ( CSS Nesting, CSS Flex, CSS Grid )
+- Notion ( Para instruções e anotações )
 
 # Algumas telas do projeto
 ![image](https://github.com/user-attachments/assets/258a3c90-e009-4aa3-b216-6fda20fc03bf)
