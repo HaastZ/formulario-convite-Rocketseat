@@ -3,6 +3,7 @@
 - Este foi um projeto feito durante a formação Full Stack da Rocketseat, sendo o 3º desafio concluido.
 - O projeto não está totalmente finalizado, falta alguns ajustes
 - Projeto hospedado: https://formulario-convite-rocketseat.vercel.app/
+- Consulte o figma do projeto clicando [aqui](https://www.figma.com/design/0AX7d9EGqqdYwaBxPLbosB/Formul%C3%A1rio-de-convite-(Community)?node-id=0-1&node-type=CANVAS&t=1Ri5YidLb1u2ONMt-0)
 # Objetivo do projeto
 Praticar os conhecimentos adquiridos durante o módulo de formulários HTML, construindo um site desktop de convite para evento com formulário para geração do convite personalizado.
 # Tecnologias e Recursos utilizados
